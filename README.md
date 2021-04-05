@@ -75,6 +75,13 @@ A perfect HTML base looks something like this.[base](Perfect HTML Base.html)
 CSS stands for **Cascading Style Sheets**. CSS tells HTML how it wants the elements to be styled or displayed. 
 
 * **CCS Syntax** is a rule! You have to have a **selector** &amp a **decloraiton block**. The selector points to the HTML element (**h1**) and the decloation block uses curly braces to contain one or more declartions seperated by semi colons **h1 {color: blue; font-size: 20px;}** 
-* **External Style Sheet** keep things lookin' tidy and stroe them in a seperate style sheet. You'd save it as **stylesheet.css** in VS code. Remember: you've got   to link it else it won't work. 
+* **External Style Sheet** keep things lookin' tidy and stroe them in a seperate style sheet. You'd save it as **mystyle.css** in VS code. Remember: you've got to   link it else it won't work. <link rel="stylesheet" href="mystyle.css">
+* **Inline Style** is when you put your css code _inline_ (in the same doc) with your HTML. 
+* **Cascading Order** priority is _important_ for CSS. If you have mutiple CSS commands the priority is as follows:
+  1. Inline Styles
+  2. External and internal style sheets
+  3. Browser default 
+
+
  
 
