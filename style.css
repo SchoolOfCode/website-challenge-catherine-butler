@@ -23,20 +23,19 @@ body {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
 }
-
 .side {
     -ms-flex: 70%;
     flex: 70%;
-    background-color: honeydew;
-    padding: 20px;
+    background-color: whitesmoke;
+    padding: 30px;
 }
 .fakeimg {
-    background-color: aquamarine;
+    background-color:whitesmoke;
     width: 100%;
-    padding: 20px;
+    padding: 30px;
 }
 .footer {
-    padding: 20px;
+    padding: 30px;
     text-align: center;
     background: #ddd;
 }
