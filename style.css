@@ -15,7 +15,7 @@ body {
     font-size: 80px;
 }
 .subtitle {
-    font-size: 25px;
+    font-size: 60px;
 }
 .row {
     display: -ms-flexbox;
@@ -31,18 +31,69 @@ body {
 }
 .bio-header {
     padding: 10px;
-    text-align: start;
+    text-align: left;
     font-size: 40px;
 }
 .bio-text {
     padding: 10px;
-    text-align: start;
+    text-align: left;
     font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
 }
-.lewis-ski-img {
-    background-color:white;
-    width: 100%;
-    padding: 30px;
+.personality-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.personality-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+}
+.hobbies-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.hobbies-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+}
+.talents-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.talents-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+}
+.perfect-day-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.perfect-day-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+}
+.dream-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.dream-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
 }
 .footer {
     padding: 30px;
