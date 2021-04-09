@@ -25,12 +25,22 @@ body {
 }
 .side {
     -ms-flex: 70%;
-    flex: 70%;
-    background-color: whitesmoke;
-    padding: 30px;
+    flex: 30%;
+    background-color: white;
+    padding: 70px;
 }
-.fakeimg {
-    background-color:whitesmoke;
+.bio-header {
+    padding: 10px;
+    text-align: start;
+    font-size: 40px;
+}
+.bio-text {
+    padding: 10px;
+    text-align: start;
+    font-size: 25px;
+}
+.lewis-ski-img {
+    background-color:white;
     width: 100%;
     padding: 30px;
 }
