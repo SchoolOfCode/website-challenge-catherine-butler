@@ -9,13 +9,14 @@ body {
     padding: 50px;
     text-align: center;
     background: rgb(255, 255, 255);
-    color:cornflowerblue;
 }
 .header {
     font-size: 80px;
+    color:cornflowerblue;
 }
 .subtitle {
-    font-size: 60px;
+    font-size: 40px;
+    color:cornflowerblue;
 }
 .row {
     display: -ms-flexbox;
@@ -51,6 +52,17 @@ body {
     font-size: 25px;
     color:rgba(126, 120, 120, 0.911);
 }
+.perfect-day-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.perfect-day-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:cornflowerblue;
+}
 .hobbies-header {
     padding: 10px;
     text-align: left;
@@ -73,17 +85,6 @@ body {
     font-size: 25px;
     color:rgba(126, 120, 120, 0.911);
 }
-.perfect-day-header {
-    padding: 10px;
-    text-align: left;
-    font-size: 40px;
-}
-.perfect-day-text {
-    padding: 10px;
-    text-align: left;
-    font-size: 25px;
-    color:rgba(126, 120, 120, 0.911);
-}
 .dream-header {
     padding: 10px;
     text-align: left;
@@ -93,7 +94,7 @@ body {
     padding: 10px;
     text-align: left;
     font-size: 25px;
-    color:rgba(126, 120, 120, 0.911);
+    color:cornflowerblue;
 }
 .footer {
     padding: 30px;
