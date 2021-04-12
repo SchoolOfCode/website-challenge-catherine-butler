@@ -39,6 +39,7 @@ body {
     text-align: left;
     font-size: 25px;
     color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
 }
 .personality-header {
     padding: 10px;
@@ -50,6 +51,7 @@ body {
     text-align: left;
     font-size: 25px;
     color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
 }
 .perfect-day-header {
     padding: 10px;
@@ -61,6 +63,7 @@ body {
     text-align: left;
     font-size: 25px;
     color:cornflowerblue;
+    line-height: 1.5em;
 }
 .hobbies-header {
     padding: 10px;
@@ -72,6 +75,7 @@ body {
     text-align: left;
     font-size: 25px;
     color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
 }
 .talents-header {
     padding: 10px;
@@ -83,6 +87,7 @@ body {
     text-align: left;
     font-size: 25px;
     color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
 }
 .dream-header {
     padding: 10px;
@@ -94,6 +99,7 @@ body {
     text-align: left;
     font-size: 25px;
     color:cornflowerblue;
+    line-height: 1.5em;
 }
 .footer {
     padding: 200px;
