@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    height: 100vh;
+}
+.top-banner {
+    padding: 50px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+}
+.header {
+    font-size: 80px;
+    color:cornflowerblue;
+}
+.subtitle {
+    font-size: 40px;
+    color:cornflowerblue;
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+.side {
+    -ms-flex: 70%;
+    flex: 30%;
+    background-color: white;
+    padding: 70px;
+}
+.bio-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.bio-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
+}
+.personality-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.personality-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
+}
+.perfect-day-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.perfect-day-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:cornflowerblue;
+    line-height: 1.5em;
+}
+.hobbies-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.hobbies-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
+}
+.talents-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.talents-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:rgba(126, 120, 120, 0.911);
+    line-height: 1.5em;
+}
+.dream-header {
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+.dream-text {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color:cornflowerblue;
+    line-height: 1.5em;
+}
+.footer {
+    padding: 200px;
+    font-size: 40px;
+    color:cornflowerblue;
+    text-align: center;
+    background-image: url('mountain-landscape.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
